@@ -1,0 +1,146 @@
+{
+    "peasant": {
+        "value": "[Omitted]"
+    },
+    "prefix": {
+        "value": "~"
+    },
+    "qotdchannel": {
+        "value": "[Omitted]"
+    },
+    "disable_cleanse": {
+        "value": "false"
+    },
+    "disable_help": {
+        "value": "false"
+    },
+    "disable_qotd": {
+        "value": "false"
+    },
+    "disable_poll": {
+        "value": "false"
+    },
+    "disable_pfp": {
+        "value": "false"
+    },
+    "disable_quote": {
+        "value": "false"
+    },
+    "disable_dont@": {
+        "value": "false"
+    },
+    "disable_8ball": {
+        "value": "false"
+    },
+    "disable_addrole": {
+        "value": "false"
+    },
+    "disable_delrole": {
+        "value": "false"
+    },
+    "disable_getlink": {
+        "value": "false"
+    },
+    "disable_google": {
+        "value": "false"
+    },
+    "disable_dad": {
+        "value": "true"
+    },
+    "disable_iroh": {
+        "value": "false"
+    },
+    "disable_listqotds": {
+        "value": "false"
+    },
+    "disable_listqotdimgs": {
+        "value": "false"
+    },
+    "disable_delqotd": {
+        "value": "false"
+    },
+    "disable_say": {
+        "value": "false"
+    },
+    "disable_everyone": {
+        "value": "true"
+    },
+    "disable_translate": {
+        "value": "false"
+    },
+    "disable_reactions": {
+        "value": "false"
+    },
+    "disable_listemojis": {
+        "value": "false"
+    },
+    "disable_speech": {
+        "value": "true"
+    },
+    "disable_urban": {
+        "value": "false"
+    },
+    "disable_addqotd": {
+        "value": "false"
+    },
+    "disable_sendqotds": {
+        "value": "false"
+    },
+    "disable_insertqotd": {
+        "value": "false"
+    },
+    "disable_insertqotdimg": {
+        "value": "false"
+    },
+    "disable_delqotdimg": {
+        "value": "false"
+    },
+    "disable_qotdc": {
+        "value": "false"
+    },
+    "disable_god": {
+        "value": "true"
+    },
+    "disable_ok": {
+        "value": "false"
+    },
+    "disable_reactwith": {
+        "value": "false"
+    },
+    "maximum_google_requests": {
+        "value": "10"
+    },
+    "disable_kick": {
+        "value": "false"
+    },
+    "disable_ban": {
+        "value": "false"
+    },
+    "disable_mute": {
+        "value": "false"
+    },
+    "disable_deafen": {
+        "value": "false"
+    },
+    "disable_invite": {
+        "value": "false"
+    },
+    "disable_nick": {
+        "value": "false"
+    },
+    "disable_createchannel": {
+        "value": "false"
+    },
+    "disable_oogway": {
+        "value": "false"
+    },
+    "disable_insult": {
+        "value": "false"
+    },
+    "[Omitted]": {
+        "value": ""
+    },
+    "[Omitted]": {
+        "value": ""
+    }
+}
